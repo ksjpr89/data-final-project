@@ -78,6 +78,11 @@
 | `reanalysis/raw/magok_industrial_complex_infographic_2025.txt` | 원자료 | 기업/R&D | 원자료 | `01_raw_data/` |
 | `reanalysis/source_notes_hospital.md` | 문서 | 병원, 문서 | 핵심 근거 | `00_project_docs/ 또는 04_outputs/reports/` |
 | `reanalysis/source_notes_magok_industrial_complex.md` | 문서 | 기업/R&D, 문서 | 핵심 근거 | `00_project_docs/ 또는 04_outputs/reports/` |
+| `curated_project/04_outputs/reports/magok_convenience_supply_memo.md` | 분석 산출물 | 상권·후보지, 문서 | 핵심 근거 | `04_outputs/reports/` |
+| `curated_project/04_outputs/reports/magok_living_population_analysis_memo.md` | 분석 산출물 | 1인가구·인구, 생활인구·생활이동, 문서 | 핵심 근거 | `04_outputs/reports/` |
+| `curated_project/04_outputs/figures/magok_living_population_hourly_weekday_weekend.png` | 시각화 | 1인가구·인구, 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/figures/magok_living_population_age_structure.png` | 시각화 | 1인가구·인구, 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/figures/magok_living_movement_direction_summary.png` | 시각화 | 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
 
 ## 정리 원칙
 

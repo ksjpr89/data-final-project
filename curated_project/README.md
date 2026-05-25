@@ -14,9 +14,10 @@
 | 2 | `04_outputs/reports/magok_specificity_reanalysis_report.md` | 기존 재분석 보고서 |
 | 3 | `04_outputs/tables/magok_specificity_synthesis_tables.md` | 공항·병원·기업·1인가구 핵심 지표표 |
 | 4 | `04_outputs/reports/magok_convenience_supply_memo.md` | 마곡 주변 편의점 수·위치 분포와 발표용 해석 |
-| 5 | `00_project_docs/data_catalog.md` | 전체 파일 카탈로그 요약 |
-| 6 | `00_project_docs/curated_file_manifest.csv` | 새 정리 폴더에 복사된 파일 목록 |
-| 7 | `00_project_docs/curated_file_tree.txt` | 정리본 폴더의 전체 파일 트리 |
+| 5 | `04_outputs/reports/magok_living_population_analysis_memo.md` | 마곡 생활인구의 구성, 시간대별 평일·주말 패턴, 생활이동 방향 분석 |
+| 6 | `00_project_docs/data_catalog.md` | 전체 파일 카탈로그 요약 |
+| 7 | `00_project_docs/curated_file_manifest.csv` | 새 정리 폴더에 복사된 파일 목록 |
+| 8 | `00_project_docs/curated_file_tree.txt` | 정리본 폴더의 전체 파일 트리 |
 
 ## 마곡 특수성 논의의 출발점
 
@@ -30,6 +31,7 @@
 | 1인가구·인구 | 강서구와 마곡권의 1인가구 구조가 생활편의 수요와 연결되는가? | `04_outputs/reports/gangseo_one_person_households_findings.md`, `04_outputs/reports/magok_demographic_specificity_findings.md` |
 | 도시 변화 | 10년 전과 달라진 마곡의 도시 성격을 데이터로 설명할 수 있는가? | `04_outputs/tables/magok_specificity_synthesis_tables.md` |
 | 편의점 공급 | 수요를 받아낼 생활밀착형 공급 거점이 마곡 주변에 실제로 집중되어 있는가? | `04_outputs/reports/magok_convenience_supply_memo.md` |
+| 생활인구·생활이동 | 마곡에는 누가, 언제, 어느 방향으로 유입·체류하는가? | `04_outputs/reports/magok_living_population_analysis_memo.md` |
 
 ## 폴더 설명
 
@@ -45,7 +47,7 @@
 
 ## 추천 작업 순서
 
-첫 번째 단계에서는 `00_project_docs/01_magok_specificity_and_data_organization.md`를 열고, 마곡을 어떤 특수성으로 설명할지 문장부터 확정하는 것이 좋습니다. 두 번째 단계에서는 공항, 병원, 기업/R&D, 1인가구, 도시 변화 중 하나의 축을 골라 근거 파일을 확인합니다. 세 번째 단계에서는 해당 축에 대해 “팩트”, “가설”, “수요로 이어지는 논리”, “추가로 필요한 데이터”를 정리합니다.
+첫 번째 단계에서는 `00_project_docs/01_magok_specificity_and_data_organization.md`를 열고, 마곡을 어떤 특수성으로 설명할지 문장부터 확정하는 것이 좋습니다. 두 번째 단계에서는 공항, 병원, 기업/R&D, 1인가구, 도시 변화, 편의점 공급, 생활인구·생활이동 중 하나의 축을 골라 근거 파일을 확인합니다. 세 번째 단계에서는 해당 축에 대해 “팩트”, “가설”, “수요로 이어지는 논리”, “추가로 필요한 데이터”를 정리합니다. 발표용으로는 정적 지표인 1인가구·편의점 공급 분석 뒤에 동적 지표인 생활인구 분석을 배치하면, 마곡 수요가 실제로 언제·누구에게서 발생하는지 설명하기 쉽습니다.
 
 ## 주의사항
 

@@ -32,6 +32,7 @@
 | 기업·R&D 수요 | 마곡산업단지의 기업·연구개발 인력 집적이 장시간 체류 수요를 만들 수 있는가 | `reanalysis/source_notes_magok_industrial_complex.md` | `curated_project/00_project_docs/source_notes_magok_industrial_complex.md` |
 | 종합 가설 평가 | 위 수요 축이 후보 입지 판단에 어떤 인사이트를 주는가 | `reanalysis/outputs/magok_specificity_reanalysis_report.md` | `curated_project/04_outputs/reports/magok_specificity_reanalysis_report.md` |
 | 편의점 공급 분포 | 마곡 주변에 수요를 받아낼 생활밀착형 공급 거점이 실제로 집중되어 있는가 | `curated_project/02_processed_data/store_and_facility/tableau_convenience_stores_gangseo.csv` | `curated_project/04_outputs/reports/magok_convenience_supply_memo.md` |
+| 생활인구·생활이동 | 마곡에는 누가, 언제, 어떤 방향으로 유입·체류하는가 | `curated_project/01_raw_data/living_population/LOCAL_PEOPLE_DONG_202603.zip`, `outputs/candidate_living_movement_avg_daily_direction.csv` | `curated_project/04_outputs/reports/magok_living_population_analysis_memo.md` |
 
 ## 폴더 구조
 
@@ -79,4 +80,4 @@ git lfs pull
 
 ## 다음 작업 방향
 
-다음 단계에서는 현재 정리된 특수성 축을 후보 건물, 편의점 상부, 공공시설 공급 공백, 시간대별 생활이동 데이터와 연결해야 합니다. 특히 병원 축은 응급실 내원자 수와 보호자 체류시간, 공항 축은 새벽·심야 이동 및 항공 종사자 거주지, 기업 축은 야근·출장·외부 방문객 수요, 1인가구 축은 마곡 법정동 또는 블록 단위 주거유형 자료를 추가로 확보하는 것이 중요합니다. 2026-05-25 기준으로는 강서구 편의점 524개 중 마곡 관련 4개 행정동에 181개가 위치한다는 공급 분석을 추가했으므로, 이후에는 편의점별 300m·500m 반경의 시설·교통·경쟁 밀도를 결합해 실제 후보 지점을 좁히는 것이 적절합니다.
+다음 단계에서는 현재 정리된 특수성 축을 후보 건물, 편의점 상부, 공공시설 공급 공백, 시간대별 생활이동 데이터와 연결해야 합니다. 특히 병원 축은 응급실 내원자 수와 보호자 체류시간, 공항 축은 새벽·심야 이동 및 항공 종사자 거주지, 기업 축은 야근·출장·외부 방문객 수요, 1인가구 축은 마곡 법정동 또는 블록 단위 주거유형 자료를 추가로 확보하는 것이 중요합니다. 2026-05-25 기준으로는 강서구 편의점 524개 중 마곡 관련 4개 행정동에 181개가 위치한다는 공급 분석과, 평일 13시 마곡권 생활인구 176,178명·마곡권 유입 이동 92,305명이라는 생활인구 분석을 추가했으므로, 이후에는 편의점별 300m·500m 반경의 시설·교통·경쟁 밀도와 시간대별 유입 수요를 결합해 실제 후보 지점을 좁히는 것이 적절합니다.

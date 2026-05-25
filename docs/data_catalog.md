@@ -82,6 +82,11 @@
 | `curated_project/04_outputs/figures/magok_convenience_location_distribution.png` | 시각화 | 상권·후보지, 시각화 | 시각 자료 | `04_outputs/figures/` |
 | `curated_project/04_outputs/figures/magok_convenience_admin_dong_counts.png` | 시각화 | 상권·후보지, 시각화 | 시각 자료 | `04_outputs/figures/` |
 | `curated_project/04_outputs/tables/magok_related_convenience_count_by_admin_dong.md` | 분석 산출물 | 상권·후보지 | 핵심 근거 | `04_outputs/tables/` |
+| `curated_project/04_outputs/reports/magok_living_population_analysis_memo.md` | 분석 산출물 | 1인가구·인구, 생활인구·생활이동, 문서 | 핵심 근거 | `04_outputs/reports/` |
+| `curated_project/04_outputs/figures/magok_living_population_hourly_weekday_weekend.png` | 시각화 | 1인가구·인구, 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/figures/magok_living_population_age_structure.png` | 시각화 | 1인가구·인구, 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/figures/magok_living_movement_direction_summary.png` | 시각화 | 생활인구·생활이동, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/tables/magok_living_population_peak_summary.md` | 분석 산출물 | 1인가구·인구, 생활인구·생활이동 | 핵심 근거 | `04_outputs/tables/` |
 
 ## 정리 원칙
 
