@@ -78,6 +78,10 @@
 | `reanalysis/raw/magok_industrial_complex_infographic_2025.txt` | 원자료 | 기업/R&D | 원자료 | `01_raw_data/` |
 | `reanalysis/source_notes_hospital.md` | 문서 | 병원, 문서 | 핵심 근거 | `00_project_docs/ 또는 04_outputs/reports/` |
 | `reanalysis/source_notes_magok_industrial_complex.md` | 문서 | 기업/R&D, 문서 | 핵심 근거 | `00_project_docs/ 또는 04_outputs/reports/` |
+| `curated_project/04_outputs/reports/magok_convenience_supply_memo.md` | 분석 산출물 | 상권·후보지, 문서 | 핵심 근거 | `04_outputs/reports/` |
+| `curated_project/04_outputs/figures/magok_convenience_location_distribution.png` | 시각화 | 상권·후보지, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/figures/magok_convenience_admin_dong_counts.png` | 시각화 | 상권·후보지, 시각화 | 시각 자료 | `04_outputs/figures/` |
+| `curated_project/04_outputs/tables/magok_related_convenience_count_by_admin_dong.md` | 분석 산출물 | 상권·후보지 | 핵심 근거 | `04_outputs/tables/` |
 
 ## 정리 원칙
 

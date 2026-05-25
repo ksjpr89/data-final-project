@@ -13,9 +13,10 @@
 | 1 | `00_project_docs/01_magok_specificity_and_data_organization.md` | 마곡 특수성 5개 축과 데이터 정리 방향 |
 | 2 | `04_outputs/reports/magok_specificity_reanalysis_report.md` | 기존 재분석 보고서 |
 | 3 | `04_outputs/tables/magok_specificity_synthesis_tables.md` | 공항·병원·기업·1인가구 핵심 지표표 |
-| 4 | `00_project_docs/data_catalog.md` | 전체 파일 카탈로그 요약 |
-| 5 | `00_project_docs/curated_file_manifest.csv` | 새 정리 폴더에 복사된 파일 목록 |
-| 6 | `00_project_docs/curated_file_tree.txt` | 정리본 폴더의 전체 파일 트리 |
+| 4 | `04_outputs/reports/magok_convenience_supply_memo.md` | 마곡 주변 편의점 수·위치 분포와 발표용 해석 |
+| 5 | `00_project_docs/data_catalog.md` | 전체 파일 카탈로그 요약 |
+| 6 | `00_project_docs/curated_file_manifest.csv` | 새 정리 폴더에 복사된 파일 목록 |
+| 7 | `00_project_docs/curated_file_tree.txt` | 정리본 폴더의 전체 파일 트리 |
 
 ## 마곡 특수성 논의의 출발점
 
@@ -28,6 +29,7 @@
 | 기업/R&D | 마곡산업단지가 근무자·방문자·협력사 체류 수요를 만들 수 있는가? | `00_project_docs/source_notes_magok_industrial_complex.md` |
 | 1인가구·인구 | 강서구와 마곡권의 1인가구 구조가 생활편의 수요와 연결되는가? | `04_outputs/reports/gangseo_one_person_households_findings.md`, `04_outputs/reports/magok_demographic_specificity_findings.md` |
 | 도시 변화 | 10년 전과 달라진 마곡의 도시 성격을 데이터로 설명할 수 있는가? | `04_outputs/tables/magok_specificity_synthesis_tables.md` |
+| 편의점 공급 | 수요를 받아낼 생활밀착형 공급 거점이 마곡 주변에 실제로 집중되어 있는가? | `04_outputs/reports/magok_convenience_supply_memo.md` |
 
 ## 폴더 설명
 
