@@ -1,0 +1,201 @@
+﻿admin_dong_norm,industry_code,industry_name_ko,industry_name_en,establishments,workers
+발산1동,,전 산업,Total,6937,36795
+발산1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",1,1
+발산1동,C,제조업,Manufacturing,160,594
+발산1동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",3,7
+발산1동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",11,102
+발산1동,F,건설업,Construction,322,3565
+발산1동,G,도매 및 소매업,Wholesale and retail trade,2100,6566
+발산1동,H,운수 및 창고업,Transportation and storage,779,3839
+발산1동,I,숙박 및 음식점업,Accommodation and food service activities,592,2199
+발산1동,J,정보통신업,Information and communication,422,2482
+발산1동,K,금융 및 보험업,Financial and insurance activities,92,1290
+발산1동,L,부동산업,Real estate activities,363,804
+발산1동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",600,3004
+발산1동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,222,2913
+발산1동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,4,207
+발산1동,P,교육 서비스업,Education,459,2565
+발산1동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,197,5122
+발산1동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",118,364
+발산1동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",492,1171
+발산1동,,전 산업,Total,6937,36795
+발산1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",1,1
+발산1동,01,농업,Agriculture,1,1
+발산1동,011,작물 재배업,Growing of crops,1,1
+발산1동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,1,1
+발산1동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,1,1
+가양1동,,전 산업,Total,10226,78453
+가양1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+가양1동,C,제조업,Manufacturing,292,2258
+가양1동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",5,42
+가양1동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",13,305
+가양1동,F,건설업,Construction,346,4410
+가양1동,G,도매 및 소매업,Wholesale and retail trade,2323,10427
+가양1동,H,운수 및 창고업,Transportation and storage,1675,5256
+가양1동,I,숙박 및 음식점업,Accommodation and food service activities,1365,5248
+가양1동,J,정보통신업,Information and communication,828,9308
+가양1동,K,금융 및 보험업,Financial and insurance activities,203,1758
+가양1동,L,부동산업,Real estate activities,610,2210
+가양1동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",1013,26431
+가양1동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,322,4732
+가양1동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,3,228
+가양1동,P,교육 서비스업,Education,247,1156
+가양1동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,185,2133
+가양1동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",191,986
+가양1동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",605,1565
+가양1동,,전 산업,Total,10226,78453
+가양1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+가양1동,01,농업,Agriculture,0,0
+가양1동,011,작물 재배업,Growing of crops,0,0
+가양1동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+가양1동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화1동,,전 산업,Total,3735,13124
+방화1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화1동,C,제조업,Manufacturing,93,305
+방화1동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",1,1
+방화1동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",1,18
+방화1동,F,건설업,Construction,184,716
+방화1동,G,도매 및 소매업,Wholesale and retail trade,1008,1931
+방화1동,H,운수 및 창고업,Transportation and storage,577,1590
+방화1동,I,숙박 및 음식점업,Accommodation and food service activities,385,1096
+방화1동,J,정보통신업,Information and communication,116,202
+방화1동,K,금융 및 보험업,Financial and insurance activities,27,180
+방화1동,L,부동산업,Real estate activities,230,579
+방화1동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",145,298
+방화1동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,79,841
+방화1동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,2,612
+방화1동,P,교육 서비스업,Education,264,1394
+방화1동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,151,2494
+방화1동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",105,225
+방화1동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",367,642
+방화1동,,전 산업,Total,3735,13124
+방화1동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화1동,01,농업,Agriculture,0,0
+방화1동,011,작물 재배업,Growing of crops,0,0
+방화1동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화1동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+등촌3동,,전 산업,Total,3463,22871
+등촌3동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+등촌3동,C,제조업,Manufacturing,101,517
+등촌3동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",1,2
+등촌3동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",4,60
+등촌3동,F,건설업,Construction,125,1038
+등촌3동,G,도매 및 소매업,Wholesale and retail trade,1071,2985
+등촌3동,H,운수 및 창고업,Transportation and storage,379,934
+등촌3동,I,숙박 및 음식점업,Accommodation and food service activities,348,1471
+등촌3동,J,정보통신업,Information and communication,193,1113
+등촌3동,K,금융 및 보험업,Financial and insurance activities,33,475
+등촌3동,L,부동산업,Real estate activities,238,652
+등촌3동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",183,850
+등촌3동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,115,6369
+등촌3동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,3,111
+등촌3동,P,교육 서비스업,Education,195,1531
+등촌3동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,149,3719
+등촌3동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",92,320
+등촌3동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",233,724
+등촌3동,,전 산업,Total,3463,22871
+등촌3동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+등촌3동,01,농업,Agriculture,0,0
+등촌3동,011,작물 재배업,Growing of crops,0,0
+등촌3동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+등촌3동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화3동,,전 산업,Total,1298,4868
+방화3동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화3동,C,제조업,Manufacturing,25,51
+방화3동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",1,5
+방화3동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",7,73
+방화3동,F,건설업,Construction,66,147
+방화3동,G,도매 및 소매업,Wholesale and retail trade,335,526
+방화3동,H,운수 및 창고업,Transportation and storage,321,948
+방화3동,I,숙박 및 음식점업,Accommodation and food service activities,105,295
+방화3동,J,정보통신업,Information and communication,53,77
+방화3동,K,금융 및 보험업,Financial and insurance activities,8,61
+방화3동,L,부동산업,Real estate activities,69,263
+방화3동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",47,413
+방화3동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,33,561
+방화3동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,3,86
+방화3동,P,교육 서비스업,Education,57,509
+방화3동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,45,562
+방화3동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",27,113
+방화3동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",96,178
+방화3동,,전 산업,Total,1298,4868
+방화3동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화3동,01,농업,Agriculture,0,0
+방화3동,011,작물 재배업,Growing of crops,0,0
+방화3동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화3동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+공항동,,전 산업,Total,2806,34921
+공항동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",2,36
+공항동,C,제조업,Manufacturing,89,294
+공항동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",4,5
+공항동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",6,48
+공항동,F,건설업,Construction,147,586
+공항동,G,도매 및 소매업,Wholesale and retail trade,754,1521
+공항동,H,운수 및 창고업,Transportation and storage,620,25415
+공항동,I,숙박 및 음식점업,Accommodation and food service activities,325,1135
+공항동,J,정보통신업,Information and communication,86,204
+공항동,K,금융 및 보험업,Financial and insurance activities,15,98
+공항동,L,부동산업,Real estate activities,114,241
+공항동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",93,331
+공항동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,85,1813
+공항동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,7,329
+공항동,P,교육 서비스업,Education,105,771
+공항동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,72,1087
+공항동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",69,568
+공항동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",213,439
+공항동,,전 산업,Total,2806,34921
+공항동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",2,36
+공항동,01,농업,Agriculture,1,4
+공항동,011,작물 재배업,Growing of crops,1,4
+공항동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,1,4
+공항동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,1,4
+우장산동,,전 산업,Total,2645,7410
+우장산동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+우장산동,C,제조업,Manufacturing,45,117
+우장산동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",3,115
+우장산동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",1,1
+우장산동,F,건설업,Construction,321,658
+우장산동,G,도매 및 소매업,Wholesale and retail trade,633,1204
+우장산동,H,운수 및 창고업,Transportation and storage,334,445
+우장산동,I,숙박 및 음식점업,Accommodation and food service activities,235,635
+우장산동,J,정보통신업,Information and communication,95,133
+우장산동,K,금융 및 보험업,Financial and insurance activities,12,59
+우장산동,L,부동산업,Real estate activities,161,349
+우장산동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",74,139
+우장산동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,47,238
+우장산동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,1,27
+우장산동,P,교육 서비스업,Education,256,1041
+우장산동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,105,1575
+우장산동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",82,209
+우장산동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",240,465
+우장산동,,전 산업,Total,2645,7410
+우장산동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+우장산동,01,농업,Agriculture,0,0
+우장산동,011,작물 재배업,Growing of crops,0,0
+우장산동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+우장산동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화2동,,전 산업,Total,3510,12712
+방화2동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화2동,C,제조업,Manufacturing,79,197
+방화2동,D,"전기, 가스, 증기 및 공기조절 공급업","Electricity, gas, steam and air conditioning supply",3,6
+방화2동,E,"수도, 하수 및 폐기물 처리, 원료 재생업","Water supply; sewage, waste management, materials recovery",7,121
+방화2동,F,건설업,Construction,139,728
+방화2동,G,도매 및 소매업,Wholesale and retail trade,835,2314
+방화2동,H,운수 및 창고업,Transportation and storage,1424,5230
+방화2동,I,숙박 및 음식점업,Accommodation and food service activities,313,1505
+방화2동,J,정보통신업,Information and communication,51,94
+방화2동,K,금융 및 보험업,Financial and insurance activities,7,37
+방화2동,L,부동산업,Real estate activities,131,265
+방화2동,M,"전문, 과학 및 기술 서비스업","Professional, scientific and technical activities",63,158
+방화2동,N,"사업시설 관리, 사업 지원 및 임대 서비스업",Business facilities management and business support services; rental and leasing activities,49,323
+방화2동,O,"공공행정, 국방 및 사회보장 행정",Public administration and defence; compulsory social security,7,257
+방화2동,P,교육 서비스업,Education,54,283
+방화2동,Q,보건업 및 사회복지 서비스업,Human health and social work activities,56,671
+방화2동,R,"예술, 스포츠 및 여가관련 서비스업","Arts, sports and recreation related services",64,135
+방화2동,S,"협회 및 단체, 수리 및 기타 개인 서비스업","Membership organizations, repair and other personal services",228,388
+방화2동,,전 산업,Total,3510,12712
+방화2동,A,"농업, 임업 및 어업","Agriculture, forestry and fishing",0,0
+방화2동,01,농업,Agriculture,0,0
+방화2동,011,작물 재배업,Growing of crops,0,0
+방화2동,0111,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0
+방화2동,01110,곡물 및 기타 식량작물 재배업,Growing of cereal crops and other crops for food,0,0

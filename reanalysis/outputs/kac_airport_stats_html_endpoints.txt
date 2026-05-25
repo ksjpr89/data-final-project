@@ -1,0 +1,161 @@
+HTML path: /home/ubuntu/browser_html/airport_co_kr_airportYearStats.do_1779414497472.html
+Length: 136718
+
+[script src]
+//www.google-analytics.com/analytics.js
+/type/common/js/jquery-2.2.1.min.js?v=1.1
+/type/common/js/jquery.easing.1.3.js?v=1.1
+/type/common/js/jquery.font-accessibility.dev_bvs.js?v=1.1
+/type/common/js/slick/slick.min.js?v=1.1
+/type/common/js/slick/slick.acc.js?v=1.1
+/type/common/js/mCustomScrollbar/jquery.mCustomScrollbar.concat.min.js?v=1.1
+/type/common/js/jquery.form.js?v=1.1
+/type/common/js/jquery-ui.min.js?v=1.1
+/type/common/js/comm_fr.js?v=1.4
+/type/common/js/util.js?v=1.4
+/type/common/js/jquery.tmpl.js?v=1.1
+/type/common/js/clipboard.min.js?v=1.1
+/type/admin/js/printThis.js?v=1.1
+/type/kacKor/js/layout.js?v=2.2
+/type/common/js/chart_js/Chart.js
+/type/common/js/d3_js/d3.min.js
+/type/common/js/d3_js/d3pie.js
+/type/common/js/UserScriptConf.js
+
+[inline matches]
+snsItems['instagram'] = "https://www.instagram.com/airport.korea/";
+fn_comm_ajax({
+url : "/www/ajaxf/frSatisSvc/saveSatis.do",
+var ifrSrc = "/search/searchPop.do";
+location.href = "/www/cms/login/topUtilLink.do?pRetUrl=" + encodeURIComponent(window.location.pathname + window.location.search);
+function facPop(airportCd){
+var ifrSrc = "/www/cms/frFacCon/facilityPop.do?acd="+airportCd;
+function fn_centerPop(airportCd, type){
+var chatbotUrl = "https://chat.airport.co.kr/kacchat/xns.xnsChatbot.do?airport="+airportCd;
+var counselUrl = "https://chat.airport.co.kr/kacchat/xns.xnsChatbot.do?scnr_id=XSNR_CHATCOUNSEL&airport="+airportCd;
+var skybotUrl = "https://chatbot.airport.co.kr/";
+if(type=="skybot" && $.trim(airportCd)!="") {
+skybotUrl += "chat/" + airportCd;
+$("#stats_bt_02").addClass("on");
+$("#stats_bt_02").attr("title", "현재 탭 선택됨");
+$(".GrayArrDown").on("click", function(e){
+$(this).parents(".list_searchOpt").find(".search_wrap.DtlOpt").slideDown(300);
+fn_comm_ajax({
+url : "/www/ajaxf/frFlightStatsSvc/airPortYearList.do",
+function excelDown(){
+$('#excelForm').empty();
+$('<input type="hidden" name="statGubn" value="stats_02" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="sechDt" value="'+$(".SechDate").text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="chkAp" value="'+ check_arr +'" />').appendTo($('#excelForm'));
+input type="hidden" name="lineType" value="'+$('#statisForm [name=LINE_TYPE]:checked').data('val')+'" />').appendTo($('#excelForm'));
+input type="hidden" name="regType" value="'+$('#statisForm [name=RAGUL_TYPE]:checked').data('val')+'" />').appendTo($('#excelForm'));
+'<input type="hidden" name="useType" value="'+$('#statisForm [name=USE_TYPE]:checked').data('val')+'" />').appendTo($('#excelForm'));
+input type="hidden" name="passType" value="'+$('#statisForm [name=PASS_TYPE]:checked').data('val')+'" />').appendTo($('#excelForm'));
+input type="hidden" name="cagoType" value="'+$('#statisForm [name=CAGO_TYPE]:checked').data('val')+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="ap_cd" value="'+cd+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="kor_nm_'+cd+'" value="'+$(this).find('td:eq(0)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oci_'+cd+'" value="'+$(this).find('td:eq(1)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oco_'+cd+'" value="'+$(this).find('td:eq(2)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oct_'+cd+'" value="'+$(this).find('td:eq(3)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_i_'+cd+'" value="'+$(this).find('td:eq(4)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_o_'+cd+'" value="'+$(this).find('td:eq(5)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_t_'+cd+'" value="'+$(this).find('td:eq(6)').text()+'" />').appendTo($('#excelForm'))
+$('<input type="hidden" name="cago_i_'+cd+'" value="'+$(this).find('td:eq(7)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="cago_o_'+cd+'" value="'+$(this).find('td:eq(8)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="cago_t_'+cd+'" value="'+$(this).find('td:eq(9)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="tot_cd" value="'+cd+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="kor_nm_'+cd+'" value="'+$(this).find('td:eq(0)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oci_'+cd+'" value="'+$(this).find('td:eq(1)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oco_'+cd+'" value="'+$(this).find('td:eq(2)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="s_oct_'+cd+'" value="'+$(this).find('td:eq(3)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_i_'+cd+'" value="'+$(this).find('td:eq(4)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_o_'+cd+'" value="'+$(this).find('td:eq(5)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="pass_t_'+cd+'" value="'+$(this).find('td:eq(6)').text()+'" />').appendTo($('#excelForm'))
+$('<input type="hidden" name="cago_i_'+cd+'" value="'+$(this).find('td:eq(7)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="cago_o_'+cd+'" value="'+$(this).find('td:eq(8)').text()+'" />').appendTo($('#excelForm'));
+$('<input type="hidden" name="cago_t_'+cd+'" value="'+$(this).find('td:eq(9)').text()+'" />').appendTo($('#excelForm'));
+$('#excelForm').attr('action','/cms/frFlightStatsCon/airportStatExcelDown.do');
+$('#excelForm').submit();
+location.href="/www/cms/frFlightStatsCon/airportStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/airportYearStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/timeSeriesStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/weekStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/hourStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/transferStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/domesticLineStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/internationalLineStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/internationalRegionStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/delayStatsNew.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/canceledStatsNew.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/airLineStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/kindStats.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/dailyExpect.do?MENU_ID=1250";
+location.href="/www/cms/frFlightStatsCon/airTexiStats.do?MENU_ID=1250";
+
+[forms]
+{'id': 'searchPopForm', 'name': None, 'action': '/search/ko/index.do', 'method': 'post'}
+  {'tag': 'input', 'id': None, 'name': 'pText', 'value': None, 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+{'id': 'excelForm', 'name': None, 'action': None, 'method': 'post'}
+{'id': 'listForm', 'name': None, 'action': None, 'method': 'post'}
+  {'tag': 'input', 'id': 'CTR_DIV_CD', 'name': 'CTR_DIV_CD', 'value': '', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+{'id': 'statisForm', 'name': None, 'action': None, 'method': 'post'}
+  {'tag': 'input', 'id': 'MENU_ID', 'name': 'MENU_ID', 'value': '1250', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageNo', 'name': 'pageNo', 'value': '1', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'PRE_YY', 'name': 'PRE_YY', 'value': '2025', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'select', 'id': 'ST_YY', 'name': 'ST_YY', 'value': None, 'type': None, 'class': ['inp_s'], 'onclick': None, 'text': '20062007200820092010201120122013201420152016201720182019202020212022202320242025'}
+  {'tag': 'select', 'id': 'ST_MM', 'name': 'ST_MM', 'value': None, 'type': None, 'class': ['inp_s'], 'onclick': None, 'text': '010203040506070809101112'}
+  {'tag': 'select', 'id': 'EN_MM', 'name': 'EN_MM', 'value': None, 'type': None, 'class': ['inp_s'], 'onclick': None, 'text': '010203040506070809101112'}
+  {'tag': 'button', 'id': None, 'name': None, 'value': None, 'type': 'button', 'class': ['btn_search'], 'onclick': 'fn_list();', 'text': '검색'}
+  {'tag': 'button', 'id': None, 'name': None, 'value': None, 'type': 'button', 'class': ['btn_search', 'GrayArrDown'], 'onclick': None, 'text': '상세검색'}
+  {'tag': 'input', 'id': 'inp_c01', 'name': None, 'value': '', 'type': 'checkbox', 'class': ['check_all', 'chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c02', 'name': 'AIRPORT_CHK', 'value': 'GMP', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c03', 'name': 'AIRPORT_CHK', 'value': 'PUS', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c04', 'name': 'AIRPORT_CHK', 'value': 'CJU', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c07', 'name': 'AIRPORT_CHK', 'value': 'CJJ', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c05', 'name': 'AIRPORT_CHK', 'value': 'TAE', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c17', 'name': 'AIRPORT_CHK', 'value': 'MWX', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c15', 'name': 'AIRPORT_CHK', 'value': 'YNY', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c06', 'name': 'AIRPORT_CHK', 'value': 'KWJ', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c11', 'name': 'AIRPORT_CHK', 'value': 'USN', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c10', 'name': 'AIRPORT_CHK', 'value': 'RSU', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c14', 'name': 'AIRPORT_CHK', 'value': 'KPO', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c13', 'name': 'AIRPORT_CHK', 'value': 'HIN', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c16', 'name': 'AIRPORT_CHK', 'value': 'KUV', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c12', 'name': 'AIRPORT_CHK', 'value': 'WJU', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_c18', 'name': 'AIRPORT_CHK', 'value': 'ICN', 'type': 'checkbox', 'class': ['chk_list'], 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r01', 'name': 'LINE_TYPE', 'value': '', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r02', 'name': 'LINE_TYPE', 'value': '0', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r03', 'name': 'LINE_TYPE', 'value': '1', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r11', 'name': 'RAGUL_TYPE', 'value': '', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r12', 'name': 'RAGUL_TYPE', 'value': '0', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r13', 'name': 'RAGUL_TYPE', 'value': '1', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r21', 'name': 'USE_TYPE', 'value': '', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r22', 'name': 'USE_TYPE', 'value': '0', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r23', 'name': 'USE_TYPE', 'value': '1', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r31', 'name': 'PASS_TYPE', 'value': '', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r32', 'name': 'PASS_TYPE', 'value': 'C4101', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r33', 'name': 'PASS_TYPE', 'value': 'C4103', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r34', 'name': 'PASS_TYPE', 'value': 'C4102', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r35', 'name': 'PASS_TYPE', 'value': 'C4104', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r41', 'name': 'CAGO_TYPE', 'value': '', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r42', 'name': 'CAGO_TYPE', 'value': 'C4201', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r43', 'name': 'CAGO_TYPE', 'value': 'C4202', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r44', 'name': 'CAGO_TYPE', 'value': 'C4203', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'inp_r45', 'name': 'CAGO_TYPE', 'value': 'C4204', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+{'id': 'satisForm', 'name': None, 'action': None, 'method': 'post'}
+  {'tag': 'input', 'id': None, 'name': 'SITE_NO', 'value': '2', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': None, 'name': 'MENU_NO', 'value': '1250', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': None, 'name': 'CONTENTS_NO', 'value': '1', 'type': 'hidden', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageEval_5', 'name': 'SCO', 'value': '5', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageEval_4', 'name': 'SCO', 'value': '4', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageEval_3', 'name': 'SCO', 'value': '3', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageEval_2', 'name': 'SCO', 'value': '2', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': 'pageEval_1', 'name': 'SCO', 'value': '1', 'type': 'radio', 'class': None, 'onclick': None, 'text': ''}
+  {'tag': 'input', 'id': None, 'name': 'OPINION', 'value': None, 'type': 'text', 'class': ['inp_t'], 'onclick': None, 'text': ''}
+  {'tag': 'button', 'id': None, 'name': None, 'value': None, 'type': 'button', 'class': None, 'onclick': 'fn_save_opinion();', 'text': '평가하기'}
+
+[links/buttons containing excel/search]
+{'tag': 'button', 'text': '검색', 'attrs': {'id': None, 'class': ['btn_topSearch'], 'href': None, 'onclick': None, 'name': None, 'value': None, 'type': 'button'}}
+{'tag': 'button', 'text': '검색', 'attrs': {'id': None, 'class': ['btn_search'], 'href': None, 'onclick': 'fn_list();', 'name': None, 'value': None, 'type': 'button'}}
+{'tag': 'button', 'text': '상세검색', 'attrs': {'id': None, 'class': ['btn_search', 'GrayArrDown'], 'href': None, 'onclick': None, 'name': None, 'value': None, 'type': 'button'}}
+{'tag': 'a', 'text': '엑셀 다운로드', 'attrs': {'id': None, 'class': ['sDown', 'h45'], 'href': '#none', 'onclick': 'excelDown();', 'name': None, 'value': None, 'type': None}}

@@ -1,0 +1,5 @@
+﻿dataset,file,period,rows,columns
+living_movement,seoul_purpose_admdong3_20260328.zip,20260328,large,o_admdong_cd | d_admdong_cd | st_time_cd | fns_time_cd | in_forn_div_nm | forn_citiz_nm | move_purpose | move_dist | move_time | cnt | etl_ymd
+living_movement,seoul_purpose_admdong3_20260329.zip,20260329,large,o_admdong_cd | d_admdong_cd | st_time_cd | fns_time_cd | in_forn_div_nm | forn_citiz_nm | move_purpose | move_dist | move_time | cnt | etl_ymd
+living_movement,seoul_purpose_admdong3_20260330.zip,20260330,large,o_admdong_cd | d_admdong_cd | st_time_cd | fns_time_cd | in_forn_div_nm | forn_citiz_nm | move_purpose | move_dist | move_time | cnt | etl_ymd
+living_movement,seoul_purpose_admdong3_20260331.zip,20260331,large,o_admdong_cd | d_admdong_cd | st_time_cd | fns_time_cd | in_forn_div_nm | forn_citiz_nm | move_purpose | move_dist | move_time | cnt | etl_ymd
